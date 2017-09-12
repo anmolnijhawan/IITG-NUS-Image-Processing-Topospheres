@@ -1,0 +1,2 @@
+# IITG-NUS-Image-Processing-Topospheres
+This is a combined research work of IITG and NUS Singapore. The main project was to study the effect of surface topographies on cellular morphology. Our contribution to the project was to automate the preprocessing step by stitching raw images, background correction, auto-rotating of whole images and cropping, finding focused z-slice and further image analysis for each cropped image.
